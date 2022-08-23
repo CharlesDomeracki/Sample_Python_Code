@@ -1,0 +1,2 @@
+def ci():
+    print("hello")
