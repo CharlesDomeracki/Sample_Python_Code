@@ -1,5 +1,0 @@
-C:\Dev\C#\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.AssemblyReference.cache
-C:\Dev\C#\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.GeneratedMSBuildEditorConfig.editorconfig
-C:\Dev\C#\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfoInputs.cache
-C:\Dev\C#\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.AssemblyInfo.cs
-C:\Dev\C#\Polygons\Polygons.Library\obj\Debug\net5.0\Polygons.Library.csproj.CoreCompileInputs.cache
